@@ -24,7 +24,6 @@ public class DigitalQ2 {
                 System.out.print(arr.get(i) + " ");
             }
             System.out.println();
-
         }
     }
 }
