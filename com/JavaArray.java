@@ -1,6 +1,5 @@
 package com;
 
-import java.lang.System.Logger;
 import java.util.*;
 
 public class JavaArray {
